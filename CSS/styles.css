@@ -81,7 +81,7 @@ h1 {
     background-color: #9BBCE3 !important;
 }
 .btn {
-    background-color: #012651;
+    background-color: #012651 !important;
     color: white !important;
     text-decoration: none !important;
     color: inherit;
